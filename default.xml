@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="main" fetch="https://github.com/xxqqxcxqxqcqx/"/>
+    <default revision="refs/heads/Initial-Development" remote="main" sync-j="4" />
+
+    <!-- Build Files -->
+    <project name="BuildFiles" remote="main" path="/" />
+
+    <!-- Build Tools -->
+    <project name="XBS" remote="main" path="tools/xbs/" />
+
+    <!-- System Source -->
+    <project name="X-Kernel" remote="main" path="source/Base/XKernel" />
+</manifest>
