@@ -4,7 +4,7 @@
     <default revision="refs/heads/Initial-Development" remote="main" sync-j="4" />
 
     <!-- Build Files -->
-    <project name="BuildFiles" remote="main" path="/" />
+    <project name="BuildFiles" remote="main" path="." />
 
     <!-- Build Tools -->
     <project name="XBS" remote="main" path="tools/xbs/" />
