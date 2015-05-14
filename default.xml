@@ -4,11 +4,11 @@
     <default revision="refs/heads/Initial-Development" remote="main" sync-j="4" />
 
     <!-- Build Files -->
-    <project name="BuildFiles" remote="main" path="." />
+    <project name="BuildFiles" path="." />
 
     <!-- Build Tools -->
-    <project name="XBS" remote="main" path="tools/xbs/" />
+    <project name="XBS" path="tools/xbs/" />
 
     <!-- System Source -->
-    <project name="X-Kernel" remote="main" path="source/Base/XKernel" />
+    <project name="X-Kernel" path="source/Base/XKernel" />
 </manifest>
