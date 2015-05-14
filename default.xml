@@ -5,6 +5,7 @@
 
     <!-- Build Files -->
     <project name="BuildFiles" path="." />
+    <project name="CX-Project" path="projects/Corona-X" />
 
     <!-- Build Tools -->
     <project name="XBS" path="tools/xbs/" />
