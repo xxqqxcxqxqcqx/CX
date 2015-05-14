@@ -1,3 +1,9 @@
+<!------------------------------------------------->
+<!-- beeselmane - Corona-X - default.xml         -->
+<!-- 9:49 PM EST [UTC-5] - 13.5.2015             -->
+<!------------------------------------------------->
+<!-- Corona-X Project Manifest for use with repo -->
+<!------------------------------------------------->
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="main" fetch="https://github.com/xxqqxcxqxqcqx/"/>
