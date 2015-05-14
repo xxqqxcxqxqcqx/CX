@@ -9,7 +9,7 @@ Building Corona-X requires ruby version 2 or greater, a bourne-like shell (`bash
 T
 1. Make a folder to store the source
 2. Open up a shell and navigate to the folder from step 1 using `cd`
-4. Execute `repo init -u "https://github.com/xxqqxcxqxqcqx/Corona-X" -b "Initial-Development"` in the source folder.
+4. Execute `repo init -u https://github.com/xxqqxcxqxqcqx/Corona-X -b Initial-Development` in the source folder.
 5. Now execute `repo sync`. This will download the current Corona-X source tree.
 6. Run `. setup.sh` or `source setup.sh` from the build directory
 7. Run `make` from the build directory or `buildx` from anywhere
